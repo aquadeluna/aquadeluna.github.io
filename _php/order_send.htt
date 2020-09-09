@@ -1,0 +1,18 @@
+{sender} hat mit dem Bestellformular folgende Anfrage gesendet:
+
+Name: {name}
+Vorname: {firstname}
+Firma: {company}
+Telefon: {phone}
+EMail: {sender}
+Stadt: {town}
+Datum {date}
+Anlass: {occasion}
+Laenge: {length} m
+Breite: {width} m
+Durchmesser: {diameter} m
+Tiefe (eben): {deep_even} m
+Tiefe (schraeg): von {deep_slantingly_from} m bis {deep_slantingly_to} m
+Tiefe (angestuft): flach {deep_gradual_even} m, tief {deep_gradual_deep} m
+Sonstiges:
+{others}

@@ -1,0 +1,7 @@
+# robots.txt Datei fuer aquadeluna.de.
+#
+# Erstellt: Rene Oelke (23.07.2001)
+
+# Robots und Spider aller Suchmaschinen zulassen
+User-agent: *
+Disallow:

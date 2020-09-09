@@ -5,12 +5,12 @@ body {
 
 p,h1,h2,h3,h4,ul,ol,li,div,td,th,a,address,blockquote,nobr,b,i {
     font-family : Verdana, Tahoma, Arial, Helvetica, sans-serif;
-}			 
+}
 
 a {
 	color : #0099CC;
 	text-decoration : none;
-}    
+}
 
 a:visited {
 	color : #0099CC;
@@ -19,7 +19,7 @@ a:visited {
 a:hover {
 	text-decoration : underline;
 }
-      
+
 a:active {
 	color : #0099CC;
 }
@@ -44,13 +44,13 @@ span.small_gray {
 span.normal {
     font-size:10pt;
     line-height:14pt;
-}      
+}
 
 span.deactivate {
     font-size:10pt;
     line-height:14pt;
     color : #777777;
-}      
+}
 
 div.partnerlinks {
   height: 100%;
@@ -67,7 +67,7 @@ div.div1 {
   width: 100%;
   z-index: 10;
   position: absolute;
-  background-image: url( /_images/fill.gif );
+  background-image: url( /images/fill.gif );
 }
 
 a.div1 {
@@ -79,7 +79,7 @@ div.div2 {
   width: 100%;
   z-index: 20;
   position: absolute;
-  background-image: url( /_images/fill.gif );
+  background-image: url( /images/fill.gif );
 }
 
 h1.div2 {
@@ -95,7 +95,7 @@ div.div3 {
   width: 100%;
   z-index: 30;
   position: absolute;
-  background-image: url( /_images/fill.gif );
+  background-image: url( /images/fill.gif );
 }
 
 div.div4 {
